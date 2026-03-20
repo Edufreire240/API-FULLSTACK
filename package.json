@@ -1,0 +1,23 @@
+{
+  "name": "apibrach",
+  "version": "1.0.0",
+  "description": "1) Criar um novo repositório\r 2) O gitignore deve ser: 'Node'\r 3) Clonar repositório na sua máquina:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afonso-Lagedo/apiBrach.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afonso-Lagedo/apiBrach/issues"
+  },
+  "homepage": "https://github.com/Afonso-Lagedo/apiBrach#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
